@@ -18,6 +18,7 @@ My concept idea of this project is Visual temperature. The temperature sensor fe
 My code: my code should distinguish high temperature and cold temperature. when the temperature higher than my setting, the motor will be turned on.
 
 The necessary products:  temperature-humidity sensor, motor
+
 Nice to have: RGB Ring Lamp Light
 
 Research on Sensors:
