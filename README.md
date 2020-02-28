@@ -33,6 +33,7 @@ Research on Sensors:
 ![sketchjpg](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/sketchjpg.jpg)
 
 ## week 5
-
+![FanGIF](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/FanGIF.GIF)
+![tem](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/tem.HEIC)
 
  
