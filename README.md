@@ -34,6 +34,7 @@ Research on Sensors:
 
 ## week 5
 ![FanGIF](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/FanGIF.GIF)
-![tem](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/tem.HEIC)
+![temp](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/temp.png)
+In this week, I try to make each sensor part to move.
 
  
