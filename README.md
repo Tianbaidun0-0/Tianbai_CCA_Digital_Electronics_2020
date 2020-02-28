@@ -29,5 +29,10 @@ Research on Sensors:
 2. Square Force-Sensitive Resistor (FSR) - Interlink 406/ https://www.adafruit.com/product/1075-
 3. Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensorhttps://www.adafruit.com/product/4026
 4.Square Force-Sensitive Resistor (FSR) - Interlink 406 /https://www.adafruit.com/product/1075
+## week 4
+![sensorlight](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/sensorlight.GIF)
+
+## week 5
+
 
  
