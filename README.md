@@ -6,7 +6,7 @@ demo for class
 -see week 1 folder
 ## week 2
 Light & Sensor Porject:
-![led](/images/led2.png)
+![led](sensorlight](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/sensorlight.GIF)
 
 Intersting project:
 “Persists”
