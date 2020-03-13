@@ -45,6 +45,7 @@ In this week, I try to make each sensor part to move.
 ![666](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/2/666.png)
 
 ## Midterm
+![88JPG](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/2/88JPG.JPG)
 ![IMG_1859.](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/IMG_1859.GIF)
 ![IMG_1860](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/2/IMG_1860.GIF)
 
