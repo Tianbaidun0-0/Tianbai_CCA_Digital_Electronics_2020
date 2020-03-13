@@ -37,4 +37,8 @@ Research on Sensors:
 ![temp](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/temp.png)
 In this week, I try to make each sensor part to move.
 
+## week 8
+![IMG_1859.](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/IMG_1859.GIF)
+I want to make the visualization of the fan. There are two inputs. The first input is that the temperature sensor controls the LED and fan. The second input is that the pot can chang the color of the led.
+
  
