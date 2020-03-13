@@ -13,7 +13,7 @@ Intersting project:
 The concept of the “Persists”  is that the sight for a short amount of time even after it has moved out of sight.  The designer uses this theory to create this project. The LED part is spinning rapidly result in people’s visual illusions so people can see words in the project. link: https://youtu.be/SYQHEuPzx4I
 
 ## week 3
-![Circuits](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/Circuits.png)
+![IMGPNG](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/IMGPNG.PNG)
 
 
 My concept idea of this project is Visual temperature. The temperature sensor feels the different temperature to show different colors on the RGB Ring Lamp Light. when the temperature is higher than my setting degree, the motor as the fan is getting spin
