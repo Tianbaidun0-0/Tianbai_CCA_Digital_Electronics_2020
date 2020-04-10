@@ -50,6 +50,7 @@ In this week, I try to make each sensor part to move.
 ![IMG_1860](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/2/IMG_1860.GIF)
 
 I want to make the visualization of the fan. There are two inputs. The first input is that the temperature sensor controls the LED and fan. The second input is that the pot can chang the color of the led.
-## week 9
+## week 10 
 ![finaldrawing](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/image1/finaldrawing.JPG)
+My final design concept: "Catching you" I will use the pulse sensor, the LED screen, and the motor. The pulse sensor is to test people's pulse. The motor will drive the two moving parts of "huge machine". The LED screen will show some emoji or the shape of the heart. My design is the "hug machine" that will start to work when people's pulse weak(lower than my setting figure). At the same time, the LED screen will show funny emoji or text. However, if people's pulse quickened my setting number, the LED will show some text to make people calm down. Maybe I also can use the LED to display the heartbeat.
  
