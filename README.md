@@ -57,5 +57,5 @@ My code: my code should distinguish pulse and led screem.
 The necessary products: pulse sensor, motor, LED screen
 Nice to have: RGB Ring Lamp Light
 sensor research:  1.pulsesensor https://www.adafruit.com/product/1093
-                  2.Led screen https://www.adafruit.com/product/1651
+2.Led screen https://www.adafruit.com/product/1651
 
