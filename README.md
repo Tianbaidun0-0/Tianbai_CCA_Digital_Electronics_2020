@@ -62,3 +62,6 @@ Nice to have: RGB Ring Lamp Light
 Sensor research:  1.pulsesensor https://www.adafruit.com/product/1093
 2.Led screen https://www.adafruit.com/product/1651
 
+## week 15
+![All](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/All.png)
+![Screen%20Shot%202020-05-01%20at%2010.14.03%20PM](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/Screen%20Shot%202020-05-01%20at%2010.14.03%20PM.png)
