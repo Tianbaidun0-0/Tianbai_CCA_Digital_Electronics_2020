@@ -62,6 +62,33 @@ Nice to have: RGB Ring Lamp Light
 Sensor research:  1.pulsesensor https://www.adafruit.com/product/1093
 2.Led screen https://www.adafruit.com/product/1651
 
-## week 15
+
+# week 15 Final Project-Catching machine
+
 ![All](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/All.png)
+
+## Concept
+Because of the CORONAVIRUS, people have to go out less. So I wanted to design a toy that friends and family member could participate in. people can paly with themselves and also invite roomates or finally member to join.
+
+## Components :
+Basic Parts: Bread board / Wire / Arduino Uno board.
+
+Potentiometer: control the mechine to move up, down, and around.
+
+Moters: to make each part of mechine can moving.
+
 ![Screen%20Shot%202020-05-01%20at%2010.14.03%20PM](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/Screen%20Shot%202020-05-01%20at%2010.14.03%20PM.png)
+
+
+## How it works:
+The potentiometers control the motors. 
+By controlling four motors, people can move up, down and around and catch objects.
+
+![part](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/Part.png)
+
+## Presentation 
+link: https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/final_.ino
+## code: 
+https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/final_.ino
+
+
