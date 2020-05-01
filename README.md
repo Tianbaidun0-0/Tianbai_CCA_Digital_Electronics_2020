@@ -88,7 +88,7 @@ By controlling four motors, people can move up, down and around and catch object
 ![part](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/Part.png)
 
 ## Presentation 
-link: https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/final_.ino
+link: https://www.youtube.com/watch?v=20htcVWjsKw
 ## code: 
 https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/final_.ino
 
