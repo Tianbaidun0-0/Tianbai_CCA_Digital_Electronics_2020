@@ -68,7 +68,7 @@ Sensor research:  1.pulsesensor https://www.adafruit.com/product/1093
 ![All](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/All.png)
 
 ## Concept
-Because of the CORONAVIRUS, people have to go out less. So I wanted to design a toy that friends and family member could participate in. people can paly with themselves and also invite roomates or finally member to join.
+Because of the CORONAVIRUS, people have to go out less. So I wanted to design a toy that friends and family member could participate in. People can paly with themselves and also invite roomates or finally member to join.
 
 ## Components :
 Basic Parts: Bread board / Wire / Arduino Uno board.
@@ -82,6 +82,7 @@ Moters: to make each part of mechine can moving.
 
 ## How it works:
 The potentiometers control the motors. 
+
 By controlling four motors, people can move up, down and around and catch objects.
 
 ![part](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020/blob/master/final/Part.png)
